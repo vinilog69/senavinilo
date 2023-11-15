@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  
+  #contenedor1 {
+    width: 1200px;
+    margin: 0 auto;
+  }
+  table {
+    width: 1200px;
+  }
+  
+  
+  #header {
+    background-color: rgb(81, 255, 81);
+    overflow: hidden;
+    height: 50px;
+    text-align: center;
+  }
+  
+  
+  #titulo {
+    width: 1200px;
+    text-align: center;
+  }
+  
+  
+  th, td {
+    text-align: center;
+    padding: 10px;
+    border: 2px solid #000000;
+    padding: 10px;
+  }
+  
